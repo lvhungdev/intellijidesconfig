@@ -1,0 +1,35 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="ActivateVersionControlToolWindow" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="FileChooser.NewFile" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="HideSideWindows" />
+  <action id="MainMenuButton.ShowMenu" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="context.load" />
+</keymap>
