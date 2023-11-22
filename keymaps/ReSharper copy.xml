@@ -1,0 +1,7 @@
+<keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="FileStructurePopup" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+</keymap>
