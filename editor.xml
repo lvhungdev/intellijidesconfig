@@ -50,7 +50,7 @@
         <entry key="js.type.hints" value="true" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
         <entry key="ts.chain.hints" value="false" />
-        <entry key="ts.enum.hints" value="false" />
+        <entry key="ts.enum.hints" value="true" />
         <entry key="ts.type.hints" value="false" />
       </map>
     </option>
