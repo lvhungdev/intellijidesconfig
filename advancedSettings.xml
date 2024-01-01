@@ -3,6 +3,7 @@
     <option name="settings">
       <map>
         <entry key="editor.comment.line.caret.down" value="false" />
+        <entry key="floating.codeToolbar.hide" value="true" />
       </map>
     </option>
   </component>
