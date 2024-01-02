@@ -14,6 +14,7 @@
     <option name="widgets">
       <map>
         <entry key="AIAssistant" value="false" />
+        <entry key="CodeStyleStatusBarWidget" value="false" />
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Encoding" value="false" />
         <entry key="LineSeparator" value="false" />
