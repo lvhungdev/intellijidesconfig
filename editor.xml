@@ -59,8 +59,7 @@
         <entry key="C#" value="true" />
       </map>
     </option>
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="TOOLTIPS_DELAY_MS" value="200" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
