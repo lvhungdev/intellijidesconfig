@@ -39,5 +39,8 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="com.intellij.csharpier.ReformatWithCSharpierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
   <action id="context.load" />
 </keymap>
