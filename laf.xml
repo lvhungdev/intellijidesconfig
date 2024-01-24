@@ -13,15 +13,14 @@
       <laf-to-scheme laf="Rider Melon Day" scheme="_@user_Default" />
       <laf-to-scheme laf="Rider Melon Light" scheme="_@user_Default" />
       <laf-to-scheme laf="Rider Melon Night" scheme="_@user_Default" />
-      <laf-to-scheme laf="Rider Night" scheme="_@user_Rider Dark" />
       <laf-to-scheme laf="Visual Assist Dark" scheme="_@user_Darcula" />
       <laf-to-scheme laf="Visual Assist Day" scheme="_@user_Default" />
       <laf-to-scheme laf="Visual Assist Light" scheme="_@user_Default" />
-      <laf-to-scheme laf="Visual Assist Night" scheme="_@user_Default" />
       <laf-to-scheme laf="Visual Studio Dark" scheme="_@user_Default" />
       <laf-to-scheme laf="Visual Studio Day" scheme="_@user_Default" />
       <laf-to-scheme laf="Visual Studio Light" scheme="_@user_Default" />
-      <laf-to-scheme laf="Visual Studio Night" scheme="_@user_Default" />
+      <laf-to-scheme laf="VisualAssistNight" scheme="_@user_Default" />
+      <laf-to-scheme laf="VisualStudioNight" scheme="_@user_Default" />
     </lafs-to-previous-schemes>
   </component>
 </application>
